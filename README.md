@@ -28,7 +28,7 @@ Welcome to the **Java Programs** repository! This project features two robust Ja
 ## 🛠️ Prerequisites
 
 - **Java**: Version 8 or later.
-- **IDE**: Any Java-supported IDE or terminal for compilation and execution.
+- **IDE**: Any Java-supported IDE or terminal for compilation and execution. 
 
 ---
 
